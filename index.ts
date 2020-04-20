@@ -5,3 +5,4 @@ import './functions/functions';
 import './objects/objects';
 import './classes/classes';
 import './interface/interface';
+import './generic/generic';

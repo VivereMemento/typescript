@@ -7,4 +7,5 @@ require("./functions/functions");
 require("./objects/objects");
 require("./classes/classes");
 require("./interface/interface");
+require("./generic/generic");
 //# sourceMappingURL=index.js.map
